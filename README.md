@@ -1,6 +1,5 @@
 # KutuphaneOtomasyonu
-# Kutuphane-Otomasyonu 
- <h1 align="center"> Merhaba 👋, ben Aleyna</h1>
+ <h1 align="center"> Merhaba 👋, ben Seher</h1>
 <h3 align="left">Açıklama</h3>
 <p align="left"> Bu depo bir üniversite kütüphanesi otomasyonunu içermektedir. 
 Java dilinde Swing GUI kullanılarak oluşturuldu. 5 farklı tasarım deseni kullanıldı. Kütüphane Otomasyonu, Yazılım Mimarisi ve Tasarım dersi dönem ödevidir.</p>
